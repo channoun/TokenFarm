@@ -1,0 +1,41 @@
+{
+  "contracts": {
+    "FarmDapp": "50e67b867e7373b400df05699bfa2228193dd4f6",
+    "FarmToken": "ba3894a615c03ab5118e0c065f8a83d1078fae9e",
+    "MockDAI": "1c46e4bcaa083f9b21876dff4ad3a927bbf50164",
+    "MockWETH": "682fea087561e59af63b5dded7a47e69d8a2ce86",
+    "OpenZeppelin/openzeppelin-contracts@4.4.1/ERC20": "05b44f80e08900a7aa6bf3a608b9deb527af43d3"
+  },
+  "tests": {
+    "tests/unit/test_deploy_and_allow_token.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "49221b4a405a85a4d2c473656991f3c6515a842c",
+      "txhash": [
+        "0e490800f40072a8fe321d66205a495ebada462b"
+      ]
+    }
+  },
+  "tx": {
+    "0e490800f40072a8fe321d66205a495ebada462b": {
+      "FarmDapp": {
+        "0": [
+          [],
+          [],
+          []
+        ],
+        "2": [
+          [],
+          [],
+          []
+        ],
+        "3": [
+          [],
+          [],
+          []
+        ]
+      }
+    }
+  }
+}
